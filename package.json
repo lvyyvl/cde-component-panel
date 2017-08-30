@@ -1,0 +1,31 @@
+{
+  "name": "cde-component-panel",
+  "main": "./lib/cde-component-panel",
+  "version": "1.0.7",
+  "description": "CDE Tool use components package",
+  "keywords": [
+    "add npm",
+    "react native",
+    "add components"
+  ],
+  "activationCommands": {
+    "atom-workspace": "CDE Component Library:Open"
+  },
+  "repository": "https://github.com/ly1984119/cde-component-panel",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-message-panel": "^1.3.0",
+    "etch": "0.9.0",
+    "event-kit": "^2.3.0",
+    "fs-extra": "^4.0.0",
+    "fs-plus": "^3.0.0",
+    "jquery": "^3.2.1",
+    "underscore-plus": "^1.6.6"
+  },
+  "deserializers": {
+    "cde-component-panel/CdeComponentPanelView": "createCdeComponentPanelView"
+  }
+}
