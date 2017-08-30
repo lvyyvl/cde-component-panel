@@ -1,7 +1,7 @@
 {
   "name": "cde-component-panel",
   "main": "./lib/cde-component-panel",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "CDE Tool use components package",
   "keywords": [
     "add npm",
