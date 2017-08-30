@@ -11,7 +11,7 @@
   "activationCommands": {
     "atom-workspace": "CDE Component Library:Open"
   },
-  "repository": "https://github.com/ly1984119/cde-component-panel",
+  "repository": "https://github.com/lvyyvl/cde-component-panel.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
