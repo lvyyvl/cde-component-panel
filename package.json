@@ -1,12 +1,11 @@
 {
   "name": "cde-component-panel",
   "main": "./lib/cde-component-panel",
-  "version": "1.0.8",
-  "description": "CDE Tool use components package",
+  "version": "1.0.9",
+  "description": "CDE uses MADP components package",
   "keywords": [
-    "add npm",
+    "component library",
     "react native",
-    "add components"
   ],
   "activationCommands": {
     "atom-workspace": "CDE Component Library:Open"
