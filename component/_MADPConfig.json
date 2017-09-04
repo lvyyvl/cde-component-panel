@@ -1,0 +1,1 @@
+{"name":"_MADPConfig","des":"(Required) Add to your code entry of the app.","title":"MADP Config (MADP配置)","content":"global.__MADPCONFIG__ = {@@  tenants: 'lenovo',@@  appkey: 'appKey' // Use your own app key on MADP@@};","command":"ping 127.0.0.1 -n 1","importStr":"/* global global */","time":"2017-09-04 06:14:01"}
