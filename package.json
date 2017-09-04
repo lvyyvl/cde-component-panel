@@ -4,8 +4,9 @@
   "version": "1.0.9",
   "description": "CDE uses MADP components package",
   "keywords": [
-    "component library",
-    "react native"
+    "add npm",
+    "react native",
+    "add components"
   ],
   "activationCommands": {
     "atom-workspace": "CDE Component Library:Open"
