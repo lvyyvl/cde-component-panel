@@ -1,7 +1,7 @@
 {
   "name": "cde-component-panel",
   "main": "./lib/cde-component-panel",
-  "version": "1.1.1",
+  "version": "1.0.10",
   "description": "CDE uses MADP components package",
   "keywords": [
     "add npm",
